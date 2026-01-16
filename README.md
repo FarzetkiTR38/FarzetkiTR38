@@ -59,7 +59,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FarzetkiTR38&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=FarzetkiTR38" />
 </p>
 
 ---
