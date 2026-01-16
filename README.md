@@ -1,78 +1,77 @@
-<h1 align="center">🩸 FARZETKI</h1>
-<h3 align="center">Game Developer • Unity • Cyberpunk Indie</h3>
+<h1 align="center">🎮 FARZETKI</h1>
+<h3 align="center">Indie Game Developer • Unity • Gameplay-Focused</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FarzetkiTR38&label=PROFILE+VIEWS&color=ff0055&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=FarzetkiTR38&label=PROFILE+VIEWS&color=blue&style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ff0055&center=true&vCenter=true&lines=Game+Developer;Unity+2D+%26+3D;Gameplay+First+Design;Indie+Cyberpunk+Spirit" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=3b82f6&center=true&vCenter=true&lines=Indie+Game+Developer;Unity+2D+%26+3D;Gameplay+First+Design;Learning+by+Building" />
 </p>
 
 ---
 
-## 🧠 Identity
+## 🧠 About Me
 
-🎮 **Game Developer** focused on gameplay, mechanics and player feel  
-🩸 Cyberpunk / dark themed indie mindset  
-🚀 Building games, prototypes and experiments with Unity  
-🧩 I care about **how a game feels**, not just how it looks
+🎮 **Indie Game Developer**  
+🛠️ Building 2D & 3D games with Unity  
+🧩 Focused on gameplay mechanics, core loops and player experience  
+🚀 Learning by building real projects and small experiments
 
-> *“Good graphics catch the eye.  
-> Great gameplay owns the soul.”*
-
----
-
-## 🕹️ What I Build
-
-- 🎯 Gameplay mechanics & core loops  
-- 🧠 Prototypes & experimental systems  
-- 🌌 2D & 3D Unity games  
-- 🧪 Fast iteration, game-jam mindset  
-- 🔥 Dark / cyberpunk inspired concepts
+> *“Fun comes first. Everything else supports it.”*
 
 ---
 
-## 🧪 Projects Universe
+## 🕹️ What I Do
+
+- 🎯 Gameplay mechanics & systems  
+- 🧠 Prototypes and small game ideas  
+- 🌍 Unity 2D & 3D projects  
+- 🧪 Iterative development and experimentation  
+- 🎮 Indie-style, scope-aware game development
+
+---
+
+## 🧪 Projects
 
 🕹️ **Unity 2D Mini Projects**  
-> Small games, mechanic experiments, rapid prototypes  
+> Small games and mechanic-focused prototypes  
 
 🧱 **Unity 3D Projects**  
-> 3D gameplay systems, controllers, environments  
+> Gameplay systems, environments and controllers  
 
-🚀 **Experimental Game Dev**  
-> Try → break → learn → rebuild
+🚀 **Experimental Builds**  
+> Learning through rapid prototyping
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Unity-0d0d0d?style=flat-square&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-0d0d0d?style=flat-square&logo=c-sharp&logoColor=green"/>
-  <img src="https://img.shields.io/badge/Game_Design-ff0055?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Indie_Dev-ff0055?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-black?style=flat-square&logo=c-sharp&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Game_Design-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Indie_Dev-blue?style=flat-square"/>
 </p>
 
 ---
 
-## 🧠 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarzetkiTR38&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FarzetkiTR38&show_icons=true&theme=default&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarzetkiTR38&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarzetkiTR38&layout=compact&theme=default&hide_border=true"/>
 </p>
 
 ---
 
-## 🧬 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarzetkiTR38&theme=redical&bg_color=0d0d0d&color=ff0055&line=ff0055&point=ffffff&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarzetkiTR38&theme=github-light&hide_border=true"/>
 </p>
 
 ---
@@ -86,14 +85,14 @@
 
 ---
 
-## 🎯 Mission
+## 🎯 Goal
 
-🎮 Build fun-first games  
-🩸 Ship indie projects with personality  
-🚀 Level up as a game developer every day
+🎮 Build fun and complete indie games  
+🚀 Improve with every project  
+🧠 Learn, experiment and ship
 
 ---
 
 <p align="center">
-  <b>ENTER THE REPO • FOLLOW THE DEV • PLAY THE GAME</b>
+  <b>Indie games are built one mechanic at a time.</b>
 </p>
