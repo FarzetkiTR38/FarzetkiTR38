@@ -59,19 +59,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarzetkiTR38&show_icons=true&theme=default&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarzetkiTR38&layout=compact&theme=default&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarzetkiTR38&theme=github-light&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=FarzetkiTR38&hide_border=true"/>
 </p>
 
 ---
