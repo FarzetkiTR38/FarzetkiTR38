@@ -55,7 +55,7 @@
 </p>
 
 ---
-<!--
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -63,7 +63,7 @@
 </p>
 
 ---
--->
+
 ## 🌐 Connect
 
 🌍 **Website:** https://farzetkigames.com.tr  
