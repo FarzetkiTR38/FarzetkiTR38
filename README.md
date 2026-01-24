@@ -53,10 +53,10 @@
 
 ## 🌐 Connect
 
--🌍 **Website:** https://farzetkigames.com.tr  
--🐦 **Twitter:** https://twitter.com/FarzetkiGames
--📸 **Instagram:** https://instagram.com/FarzetkiGames
--📧 **Mail:** farzetkigames@gmail.com  
+- 🌍 **Website:** https://farzetkigames.com.tr 
+- 🐦 **Twitter:** https://twitter.com/FarzetkiGames
+- 📸 **Instagram:** https://instagram.com/FarzetkiGames
+- 📧 **Mail:** farzetkigames@gmail.com  
 
 ---
 
